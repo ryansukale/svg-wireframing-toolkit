@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="404.21717"
-     inkscape:cy="876.47739"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="209.43874"
+     inkscape:cy="776.15694"
      inkscape:document-units="px"
-     inkscape:current-layer="g8868"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="706"
@@ -339,7 +339,7 @@
     </g>
     <path
        sodipodi:type="star"
-       style="color:#000000;fill:#000000;stroke:#999999;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#000000;stroke:none;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3452"
        sodipodi:sides="3"
        sodipodi:cx="1071.0714"
@@ -529,7 +529,7 @@
          y="78.366837" />
     </g>
     <rect
-       style="color:#000000;fill:none;stroke:#999999;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#808080;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3599"
        width="175.20384"
        height="17.520386"
@@ -541,7 +541,7 @@
        id="g3630"
        transform="translate(0,52.499997)">
       <rect
-         style="color:#000000;fill:none;stroke:#999999;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:none;stroke:#999999;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect3632"
          width="175.20384"
          height="17.520386"
@@ -560,7 +560,7 @@
            id="tspan3636"
            x="13.965358"
            y="131.00209"
-           style="font-size:8px;fill:#b3b3b3">Textfield</tspan></text>
+           style="font-size:8px;fill:#999999;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans">Textfield</tspan></text>
     </g>
     <g
        id="g3655">
@@ -620,10 +620,10 @@
       <g
          id="g6921">
         <rect
-           style="color:#000000;fill:none;stroke:#999999;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="color:#000000;fill:none;stroke:#808080;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="rect6915"
-           width="216.70384"
-           height="116.02038"
+           width="174.15611"
+           height="67.687119"
            x="9.2717075"
            y="119.41348"
            rx="1.271439"
@@ -639,59 +639,64 @@
              id="tspan6919"
              x="13.965358"
              y="131.00209"
-             style="font-size:8px;fill:#b3b3b3">Textarea</tspan></text>
+             style="font-size:8px;fill:#999999;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans">Textarea</tspan></text>
       </g>
     </g>
     <g
-       transform="translate(201,52.499997)"
-       id="g8868">
+       id="g9365">
       <rect
          ry="0.89567685"
          rx="0.89567685"
-         y="119.41348"
-         x="9.2717075"
+         y="171.91348"
+         x="210.27171"
          height="17.520386"
          width="80.453842"
          id="rect8870"
-         style="color:#000000;fill:#aaccff;stroke:none;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#aaccff;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <text
          sodipodi:linespacing="125%"
          id="text8872"
-         y="131.00209"
-         x="36.946327"
+         y="183.50209"
+         x="237.94632"
          style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            style="font-size:8px;fill:#000000"
-           y="131.00209"
-           x="36.946327"
+           y="183.50209"
+           x="237.94632"
            id="tspan8874"
            sodipodi:role="line">Button</tspan></text>
+    </g>
+    <g
+       id="g9370">
       <rect
          style="color:#000000;fill:#e9afaf;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect8876"
          width="80.453842"
          height="17.520386"
-         x="109.53963"
-         y="119.41348"
+         x="210.53961"
+         y="219.91348"
          rx="0.89567685"
          ry="0.89567685" />
       <text
          xml:space="preserve"
          style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="137.21425"
-         y="131.00209"
+         x="238.21423"
+         y="231.50209"
          id="text8878"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan8880"
-           x="137.21425"
-           y="131.00209"
+           x="238.21423"
+           y="231.50209"
            style="font-size:8px;fill:#000000">Button</tspan></text>
+    </g>
+    <g
+       id="g9375">
       <rect
          ry="0.89567685"
          rx="0.89567685"
-         y="119.41348"
-         x="209.43102"
+         y="268.41348"
+         x="210.66327"
          height="17.520386"
          width="80.453842"
          id="rect8882"
@@ -699,15 +704,118 @@
       <text
          sodipodi:linespacing="125%"
          id="text8884"
-         y="131.00209"
-         x="237.10564"
+         y="280.00211"
+         x="238.33789"
          style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            style="font-size:8px;fill:#000000"
-           y="131.00209"
-           x="237.10564"
+           y="280.00211"
+           x="238.33789"
            id="tspan8886"
            sodipodi:role="line">Button</tspan></text>
     </g>
+    <g
+       id="g9380">
+      <rect
+         style="color:#000000;fill:#ff9955;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect8870-2"
+         width="80.453842"
+         height="17.520386"
+         x="210.7923"
+         y="318.46399"
+         rx="0.89567685"
+         ry="0.89567685" />
+      <text
+         xml:space="preserve"
+         style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="237.9669"
+         y="330.05261"
+         id="text8872-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan8874-2"
+           x="237.9669"
+           y="330.05261"
+           style="font-size:8px;fill:#ffffff">Button</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:23.24862671px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="319.70804"
+       y="135.50023"
+       id="text9387"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9389"
+         x="319.70804"
+         y="135.50023">£</tspan></text>
+    <g
+       id="g9395"
+       transform="matrix(1.1965691,-1.1965691,1.1965691,1.1965691,833.34647,1188.3454)"
+       style="fill:#000000">
+      <rect
+         ry="0.28726211"
+         rx="0.28726211"
+         transform="translate(-7.875635,-86.469271)"
+         y="-552.36029"
+         x="254.25"
+         height="6.6230063"
+         width="1.7807999"
+         id="rect9391"
+         style="color:#000000;fill:#000000;stroke:none;stroke-width:0.25000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#000000;stroke:none;stroke-width:0.25000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect9393"
+         width="1.758554"
+         height="12.964829"
+         x="-633.97784"
+         y="-259.34882"
+         transform="matrix(0,1,-1,0,0,0)"
+         rx="0.28726211"
+         ry="0.28726211" />
+    </g>
+    <g
+       id="g9470">
+      <rect
+         ry="1.4940857"
+         rx="1.4940857"
+         y="115.22565"
+         x="413.08386"
+         height="24.835285"
+         width="24.835285"
+         id="rect9363"
+         style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <g
+         style="fill:#008000"
+         id="g9423"
+         transform="matrix(0.79707612,-0.79707612,0.79707612,0.79707612,730.66622,834.05327)">
+        <rect
+           ry="0.28726211"
+           rx="0.28726211"
+           transform="translate(-7.875635,-86.469271)"
+           y="-552.36029"
+           x="254.25"
+           height="6.6230063"
+           width="1.7807999"
+           id="rect9425"
+           style="color:#000000;fill:#008000;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           style="color:#000000;fill:#008000;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect9427"
+           width="1.758554"
+           height="12.964829"
+           x="-633.97784"
+           y="-259.34882"
+           transform="matrix(0,1,-1,0,0,0)"
+           rx="0.28726211"
+           ry="0.28726211" />
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#cccccc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 9.6469526,328.99195 173.0391374,0"
+       id="path3370"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
